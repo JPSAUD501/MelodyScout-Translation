@@ -17,5 +17,6 @@
     "spotifyButton": "[🎧] - Spotify",
     "youtubeButton": "[🎥] - YouTube",
     "lyricsButton": "[🧾] - Letra",
-    "iaExplanationButton": "[✨] - Explicação"
+    "iaExplanationButton": "[✨] - Explicação",
+    "trackPreviewButton": "[📥] - Preview"
 }
