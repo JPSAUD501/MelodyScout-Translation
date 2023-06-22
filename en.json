@@ -9,5 +9,9 @@
     "noRecentTracksError": "It sounds like you have never listened to anything on Last.fm, how about you start listening to something now? If this is not true please contact my developer using the /contact command.",
     "unableToGetUserInfoInDb": "Unable to retrieve your information from the database, please try again later! If the problem persists contact my developer using the /contact command.",
     "loadingInformCallback": "⏳ - Loading…",
-    "lastfmUserDataNotFoundedError": "Could not retrieve your information from Last.fm, if your user is no longer <code>{{lastfmUser}}</code> use the /forgetme command and then /myuser to register your new profile! If the problem persists contact my developer using the /contact command."
+    "lastfmUserDataNotFoundedError": "Could not retrieve your information from Last.fm, if your user is no longer <code>{{lastfmUser}}</code> use the /forgetme command and then /myuser to register your new profile! If the problem persists contact my developer using the /contact command.",
+    "lastfmArtistDataNotFoundedError": "I don't understand what happened, it was not possible to retrieve the information of the artist you are listening to in Last.fm! If the problem persists contact my developer using the /contact command.",
+    "lastfmAlbumDataNotFoundedError": "I don't understand what happened, it was not possible to retrieve the information of the album you are listening to in Last.fm! If the problem persists contact my developer using the /contact command.",
+    "lastfmTrackDataNotFoundedError": "I don't understand what happened, it was not possible to retrieve the information of the song you are listening to in Last.fm! If the problem persists contact my developer using the /contact command.",
+    "spotifyTrackDataNotFoundedError": "I don't understand what happened, it was not possible to retrieve the Spotify information of the song you are listening to! If the problem persists contact my developer using the /contact command."
 }
