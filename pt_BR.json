@@ -21,5 +21,6 @@
     "trackPreviewButton": "[📥] - Preview",
     "trackDownloadButton": "[📥] - Download",
     "unableToGetMessageIdFromButtonInformMessage": "Algo deu errado ao buscar a mensagem que você clicou, por favor tente novamente mais tarde ou entre em contato através do comando /contact.",
-    "unableToGetMessageIdFromOriginalMessageOfButtonInformMessage": "Algo deu errado na mensagem que você clicou, por favor tente novamente mais tarde ou entre em contato através do comando /contact."
+    "unableToGetMessageIdFromOriginalMessageOfButtonInformMessage": "Algo deu errado na mensagem que você clicou, por favor tente novamente mais tarde ou entre em contato através do comando /contact.",
+    "errorOnSendLoadingMessageInformMessage": "Algo deu errado ao enviar a mensagem de carregamento, por favor tente novamente mais tarde ou entre em contato através do comando /contact."
 }
