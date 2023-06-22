@@ -16,5 +16,6 @@
     "spotifyTrackDataNotFoundedError": "Não entendi o que aconteceu, não foi possível resgatar as informações do Spotify da música que você está ouvindo! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact.",
     "spotifyButton": "[🎧] - Spotify",
     "youtubeButton": "[🎥] - YouTube",
-    "lyricsButton": "[🧾] - Letra"
+    "lyricsButton": "[🧾] - Letra",
+    "iaExplanationButton": "[✨] - Explicação"
 }
