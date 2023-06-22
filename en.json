@@ -8,5 +8,6 @@
     "maintenanceInformMessage": "I don't know how to apologize for this, but unfortunately I'm down for maintenance! I know this is really annoying, but I'm trying to solve this problem as soon as possible! I will be back soon! Taking this opportunity on behalf of my developer I would like to thank all my users! 💜\n\nIf you have any suggestions or criticisms, please get in touch using the /contact command! I will be very happy to hear what you have to say!",
     "noRecentTracksError": "It sounds like you have never listened to anything on Last.fm, how about you start listening to something now? If this is not true please contact my developer using the /contact command.",
     "unableToGetUserInfoInDb": "Unable to retrieve your information from the database, please try again later! If the problem persists contact my developer using the /contact command.",
-    "loadingInformCallback": "⏳ - Loading…"
+    "loadingInformCallback": "⏳ - Loading…",
+    "lastfmUserDataNotFoundedError": "Could not retrieve your information from Last.fm, if your user is no longer <code>{{lastfmUser}}</code> use the /forgetme command and then /myuser to register your new profile! If the problem persists contact my developer using the /contact command."
 }
