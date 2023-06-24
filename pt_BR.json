@@ -37,5 +37,6 @@
     "lastfmTrackOrArtistDataNotFoundedErrorCallback": "⚠ - Nome da música ou do artista não encontrado!",
     "sendingTrackPreviewInformCallback": "🎵 - Enviando preview da música",
     "trackPreviewCaptionMessage": "<b>[🎵] Pré-visualização de \"{{track}}\" por \"{{artist}}\"</b>\n\nSolicitado por: <b><a href='tg://user?id={{requesterId}}'>{{requesterName}}</a></b>",
-    "spotifyTrackPreviewUrlNotFoundedErrorCallback": "⚠ - Ocorreu um erro ao tentar obter a URL de pré-visualização da música"
+    "spotifyTrackPreviewUrlNotFoundedErrorCallback": "⚠ - Ocorreu um erro ao tentar obter a URL de pré-visualização da música",
+    "trackNameNotFoundedInCallbackDataErrorMessage": "Algo deu errado ao identificar a música, por favor tente novamente mais tarde ou entre em contato através do comando /contact."
 }
