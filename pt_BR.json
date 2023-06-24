@@ -24,5 +24,5 @@
     "unableToGetMessageIdFromOriginalMessageOfButtonInformMessage": "Algo deu errado na mensagem que você clicou, por favor tente novamente mais tarde ou entre em contato através do comando /contact.",
     "errorOnSendLoadingMessageInformMessage": "Algo deu errado ao enviar a mensagem de carregamento, por favor tente novamente mais tarde ou entre em contato através do comando /contact.",
     "errorOnDownloadTrackInformMessage": "Algo deu errado ao baixar a música, por favor tente novamente mais tarde ou entre em contato através do comando /contact.",
-    "trackAudioDownloadCaption": "<b>[🎵] Download do áudio de \"{{track}}\" por \"{{artist}}\"</b>\\n\\nSolicitado por: <b><a href='tg://user?id={{requesterId}}'>{{requesterName}}</a></b>"
+    "trackAudioDownloadCaption": "<b>[🎵] Download do áudio de \"{{track}}\" por \"{{artist}}\"</b>\n\nSolicitado por: <b><a href='tg://user?id={{requesterId}}'>{{requesterName}}</a></b>"
 }
