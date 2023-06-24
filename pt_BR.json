@@ -28,5 +28,6 @@
     "trackDownloadAudioButton": "[📥] - Áudio",
     "trackDownloadVideoButton": "[📥] - Vídeo",
     "chooseTrackDownloadOptionMessage": "<b>[📥] Download de \"${track}\" por \"${artist}\"</b>\\n- Por favor escolha uma opção abaixo.\n\nSolicitado por: <b><a href='tg://user?id=${ctx.from.id}'>${ctx.from.first_name}</a></b>",
-    "trackLyricsTranslateButton": "[💬] - Traduzir"
+    "trackLyricsTranslateButton": "[💬] - Traduzir",
+    "geniusSongLyricsNotFoundedError": "Infelizmente não foi possível encontrar a letra dessa música na Genius."
 }
