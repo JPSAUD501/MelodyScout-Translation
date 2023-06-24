@@ -34,5 +34,6 @@
     "errorOnCreatingLyricsExplanationInformMessage": "Ocorreu um erro ao tentar gerar a explicação da letra dessa música, por favor tente novamente mais tarde.",
     "trackLyricsExplanationTTSHeader": "Explicação da música \"{{track}}\" de \"{{artist}}\" pelo MelodyScout.",
     "errorOnCreatingLyricsExplanationTTSInformMessage": "Ocorreu um erro ao tentar gerar o áudio da explicação da letra dessa música, por favor tente novamente mais tarde.",
-    "lastfmTrackOrArtistDataNotFoundedErrorCallback": "⚠ - Nome da música ou do artista não encontrado!"
+    "lastfmTrackOrArtistDataNotFoundedErrorCallback": "⚠ - Nome da música ou do artista não encontrado!",
+    "spotifyTrackUrlNotFoundedErrorCallback": "⚠ - Ocorreu um erro ao tentar obter a URL de preview da música"
 }
