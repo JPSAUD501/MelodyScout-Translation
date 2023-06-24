@@ -27,7 +27,7 @@
     "trackAudioDownloadCaption": "<b>[🎵] Download do áudio de \"{{track}}\" por \"{{artist}}\"</b>\n\nSolicitado por: <b><a href='tg://user?id={{requesterId}}'>{{requesterName}}</a></b>",
     "trackDownloadAudioButton": "[📥] - Áudio",
     "trackDownloadVideoButton": "[📥] - Vídeo",
-    "chooseTrackDownloadOptionMessage": "<b>[📥] Download de \"{{track}}\" por \"{{artist}}\"</b>\\n- Por favor escolha uma opção abaixo.\n\nSolicitado por: <b><a href='tg://user?id=${ctx.from.id}'>${ctx.from.first_name}</a></b>",
+    "chooseTrackDownloadOptionMessage": "<b>[📥] Download de \"{{track}}\" por \"{{artist}}\"</b>\\n- Por favor escolha uma opção abaixo.\n\nSolicitado por: <b><a href='tg://user?id={{requesterId}}'>{{requesterName}}</a></b>",
     "trackLyricsTranslateButton": "[💬] - Traduzir",
     "geniusSongLyricsNotFoundedError": "Infelizmente não foi possível encontrar a letra dessa música na Genius.",
     "creatingLyricsExplanationWithAiInformMessage": "⏳ - Gerando explicação da música com inteligência artificial, aguarde um momento…",
