@@ -30,7 +30,7 @@
     "chooseTrackDownloadOptionMessage": "<b>[📥] Download de \"${track}\" por \"${artist}\"</b>\\n- Por favor escolha uma opção abaixo.\n\nSolicitado por: <b><a href='tg://user?id=${ctx.from.id}'>${ctx.from.first_name}</a></b>",
     "trackLyricsTranslateButton": "[💬] - Traduzir",
     "geniusSongLyricsNotFoundedError": "Infelizmente não foi possível encontrar a letra dessa música na Genius.",
-    "creatingLyricsExplanationWithAiInformMessage": "⏳ - Gerando explicação da música com inteligência artificial, aguarde um momento...",
+    "creatingLyricsExplanationWithAiInformMessage": "⏳ - Gerando explicação da música com inteligência artificial, aguarde um momento…",
     "errorOnCreatingLyricsExplanationInformMessage": "Ocorreu um erro ao tentar gerar a explicação da letra dessa música, por favor tente novamente mais tarde.",
     "trackLyricsExplanationTTSHeader": "Explicação da música \"{{track}}\" de \"{{artist}}\" pelo MelodyScout.",
     "errorOnCreatingLyricsExplanationTTSInformMessage": "Ocorreu um erro ao tentar gerar o áudio da explicação da letra dessa música, por favor tente novamente mais tarde.",
