@@ -46,7 +46,7 @@
     "messageLengthGreater4096ErrorMessage": "Ocorreu um erro ao tentar responder ao seu comando pois por algum motivo a mensagem ficou maior que 4096 caracteres. Nossa equipe já foi notificada e está trabalhando para resolver o problema o mais rápido possível. Desculpe pelo transtorno. Por favor, tente novamente!",
     "cantPinMessageErrorMessage": "[⚠] Não foi possível fixar a mensagem automaticamente. Caso queira você ainda pode fixa-la manualmente. Para isso, clique na mensagem acima e em seguida em \"Fixar\".\n\nEssa mensagem de aviso será apagada em 15 segundos.",
     "messageLengthGreater1024ErrorMessage": "Ocorreu um erro ao enviar a resposta pois o tamanho da mensagem ficou maior que 1024 caracteres! Nossa equipe já foi notificada e irá corrigir o problema o mais rápido possível! Por favor tente novamente mais tarde!",
-    "sendingAudioMessage": "<b>[🎤] Enviando áudio por favor aguarde!</b>",
+    "sendingAudioMessage": "<b>[🎵] Enviando áudio por favor aguarde!</b>",
     "sendingVoiceMessage": "<b>[🎤] Enviando áudio por favor aguarde!</b>",
     "sendingDocumentMessage": "<b>[📁] Enviando arquivo por favor aguarde!</b>"
 }
