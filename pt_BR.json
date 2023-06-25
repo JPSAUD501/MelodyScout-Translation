@@ -42,5 +42,6 @@
     "downloadingTrackInformMessage": "⏳ - Fazendo download da música…",
     "trackOrArtistNameNotFoundedInCallbackDataErrorMessage": "Algo deu errado ao identificar a música, por favor tente novamente mais tarde ou entre em contato através do comando /contact.",
     "trackVideoDownloadCaption": "<b>[🎬] Download do vídeo de \"{{track}}\" por \"{{artist}}\"</b>\n\nSolicitado por: <b><a href='tg://user?id={{requesterId}}'>{{requestedrName}}</a></b>",
-    "unableToTranslateLyricsErrorMessage": "Não foi possível traduzir a letra dessa música, tente novamente mais tarde! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact."
+    "unableToTranslateLyricsErrorMessage": "Não foi possível traduzir a letra dessa música, tente novamente mais tarde! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact.",
+    "messageLengthGreater4096ErrorMessage": "Ocorreu um erro ao tentar responder ao seu comando pois por algum motivo a mensagem ficou maior que 4096 caracteres. Nossa equipe já foi notificada e está trabalhando para resolver o problema o mais rápido possível. Desculpe pelo transtorno. Por favor, tente novamente!"
 }
