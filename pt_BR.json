@@ -52,5 +52,6 @@
     "sendingPhotoMessage": "<b>[📷] Enviando foto por favor aguarde!</b>",
     "unableToGetUserIdErrorMessage": "Infelizmente não foi possível identificar seu id, por favor tente novamente mais tarde!",
     "unableToGetAllUsersFromDatabaseErrorMessage": "Infelizmente não foi possível recuperar os usuários do banco de dados, por favor tente novamente mais tarde!",
-    "sendingVideoMessage": "<b>[🎥] Enviando vídeo por favor aguarde!</b>"
+    "sendingVideoMessage": "<b>[🎥] Enviando vídeo por favor aguarde!</b>",
+    "allUsersListHeaderMessage": "<b>[🗃] Lista de usuários:</b>\\n- Total de usuários: <code>{{userCount}}</code>"
 }
