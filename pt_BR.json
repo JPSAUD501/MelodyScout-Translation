@@ -53,5 +53,6 @@
     "unableToGetUserIdErrorMessage": "Infelizmente não foi possível identificar seu id, por favor tente novamente mais tarde!",
     "unableToGetAllUsersFromDatabaseErrorMessage": "Infelizmente não foi possível recuperar os usuários do banco de dados, por favor tente novamente mais tarde!",
     "sendingVideoMessage": "<b>[🎥] Enviando vídeo por favor aguarde!</b>",
-    "allUsersListHeaderMessage": "<b>[🗃] Lista de usuários:</b>\\n- Total de usuários: <code>{{userCount}}</code>"
+    "allUsersListHeaderMessage": "<b>[🗃] Lista de usuários:</b>\\n- Total de usuários: <code>{{userCount}}</code>",
+    "allUsersListUserMessagePart": "<b>{{userEmoji}}<code>{{userLastfmName}</code>:</b>\n- TelegramID: <code>{{userTelegramId}}</code>\n- LastUpdate: <code>{{userLastUpdate}}</code>"
 }
