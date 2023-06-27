@@ -49,5 +49,6 @@
     "sendingAudioMessage": "<b>[🎵] Enviando áudio por favor aguarde!</b>",
     "sendingVoiceMessage": "<b>[🎤] Enviando áudio por favor aguarde!</b>",
     "sendingDocumentMessage": "<b>[📁] Enviando arquivo por favor aguarde!</b>",
-    "sendingPhotoMessage": "<b>[📷] Enviando foto por favor aguarde!</b>"
+    "sendingPhotoMessage": "<b>[📷] Enviando foto por favor aguarde!</b>",
+    "unableToGetUserIdErrorMessage": "Infelizmente não foi possível identificar seu id, por favor tente novamente mais tarde!"
 }
