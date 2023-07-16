@@ -63,5 +63,6 @@
     "unableToGetLastfmUserInDbErrorMessage": "Ops! Parece que eu não consegui recuperar o seu nome de usuário do Last.fm! Por favor, tente novamente mais tarde ou entre em contato com o desenvolvedor do bot utilizando o comando /contact!",
     "lastfmUserAlreadyNotRegisteredErrorMessage": "Você já não tem seu usuário do Last.fm registrado, para registrar o seu usuário do Last.fm envie o comando /myuser e seu usuário do lastfm, por exemplo: <code>/myuser MelodyScout</code>",
     "unableToForgetLastfmUserInDbErrorMessage": "Ops! Parece que eu não consegui esquecer o seu nome de usuário do Last.fm! Por favor, tente novamente mais tarde ou entre em contato com o desenvolvedor do bot utilizando o comando /contact!",
-    "lastfmUserForgottenSuccessMessage": "Pronto! Eu esqueci o seu nome de usuário do Last.fm!"
+    "lastfmUserForgottenSuccessMessage": "Pronto! Eu esqueci o seu nome de usuário do Last.fm!",
+    "lastfmUserForgetmeCheckingDataMessage": "Ok! Deixa eu verificar alguns dados..."
 }
