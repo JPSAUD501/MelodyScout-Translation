@@ -55,5 +55,6 @@
     "sendingVideoMessage": "<b>[🎥] Enviando vídeo por favor aguarde!</b>",
     "allUsersListHeaderMessage": "<b>[🗃] Lista de usuários:</b>\\n- Total de usuários: <code>{{userCount}}</code>",
     "allUsersListUserMessagePart": "<b>[{{userEmoji}}]<code> {{userLastfmName}</code>:</b>\n- TelegramID: <code>{{userTelegramId}}</code>\n- LastUpdate: <code>{{userLastUpdate}}</code>",
-    "contactMessage": "Para entrar em contato com o desenvolvedor do bot, envie uma mensagem para o @jpsaud!"
+    "contactMessage": "Para entrar em contato com o desenvolvedor do bot, envie uma mensagem para o @jpsaud!",
+    "firstTimeRegisterWelcomeMessage": "Verifiquei que é seu primeiro cadastro no MelodyScout! Que bom que você decidiu me conhecer!"
 }
