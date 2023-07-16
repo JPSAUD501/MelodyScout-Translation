@@ -65,5 +65,6 @@
     "unableToForgetLastfmUserInDbErrorMessage": "Ops! Parece que eu não consegui esquecer o seu nome de usuário do Last.fm! Por favor, tente novamente mais tarde ou entre em contato com o desenvolvedor do bot utilizando o comando /contact!",
     "lastfmUserForgottenSuccessMessage": "Pronto! Eu esqueci o seu nome de usuário do Last.fm!",
     "lastfmUserForgetmeCheckingDataMessage": "Ok! Deixa eu verificar alguns dados…",
-    "noMaintenanceModeArgumentErrorMessage": "Por favor, especifique se deseja ativar ou desativar o modo manutenção! Exemplo: <code>/maintenance on</code> ou <code>/maintenance off</code>"
+    "noMaintenanceModeArgumentErrorMessage": "Por favor, especifique se deseja ativar ou desativar o modo manutenção! Exemplo: <code>/maintenance on</code> ou <code>/maintenance off</code>",
+    "maintenanceModeActivatedInformMessage": "Modo de manutenção ativado!"
 }
