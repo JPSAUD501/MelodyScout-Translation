@@ -58,5 +58,6 @@
     "contactMessage": "Para entrar em contato com o desenvolvedor do bot, envie uma mensagem para o @jpsaud!",
     "firstTimeRegisterWelcomeMessage": "Verifiquei que é seu primeiro cadastro no MelodyScout! Que bom que você decidiu me conhecer!",
     "getTopTracksErrorMesssage": "Estranho, não foi possível resgatar as suas músicas mais tocadas do seu perfil do Last.fm! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact.",
-    "getTopAlbumsErrorMessage": "Estranho, não foi possível resgatar os seus álbuns mais tocados do seu perfil do Last.fm! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact."
+    "getTopAlbumsErrorMessage": "Estranho, não foi possível resgatar os seus álbuns mais tocados do seu perfil do Last.fm! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact.",
+    "getTopArtistsErrorMessage": "Estranho, não foi possível resgatar os seus artistas mais tocados do seu perfil do Last.fm! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact."
 }
