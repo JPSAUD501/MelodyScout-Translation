@@ -66,5 +66,6 @@
     "lastfmUserForgottenSuccessMessage": "Pronto! Eu esqueci o seu nome de usuário do Last.fm!",
     "lastfmUserForgetmeCheckingDataMessage": "Ok! Deixa eu verificar alguns dados…",
     "noMaintenanceModeArgumentErrorMessage": "Por favor, especifique se deseja ativar ou desativar o modo manutenção! Exemplo: <code>/maintenance on</code> ou <code>/maintenance off</code>",
-    "maintenanceModeActivatedInformMessage": "Modo de manutenção ativado!"
+    "maintenanceModeActivatedInformMessage": "Modo de manutenção ativado!",
+    "maintenanceModeDeactivatedInformMessage": "Modo de manutenção desativado!"
 }
