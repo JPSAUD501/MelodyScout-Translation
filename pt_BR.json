@@ -73,5 +73,6 @@
     "spotifyAlbumDataNotFoundedError": "Não entendi o que aconteceu, não foi possível resgatar as informações do álbum que você está ouvindo no Spotify! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact.",
     "spotifyArtistDataNotFoundedError": "Não entendi o que aconteceu, não foi possível resgatar as informações do artista que você está ouvindo no Spotify! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact.",
     "audioButton": "[🎧] - Áudio",
-    "videoButton": "[🎬] - Vídeo"
+    "videoButton": "[🎬] - Vídeo",
+    "errorSendingMessage": "Parece que algo deu errado ao enviar a mensagem, por favor tente novamente!"
 }
