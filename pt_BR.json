@@ -71,5 +71,6 @@
     "invalidMaintenanceModeArgumentErrorMessage": "Utilize apenas <code>on</code> ou <code>off</code> como argumento! Exemplo: <code>/maintenance on</code> ou <code>/maintenance off</code>",
     "mashupNeedTwoTracksError": "Você precisa ter pelo menos duas músicas no seu histórico para que eu possa fazer um mashup! Tente novamente mais tarde.",
     "spotifyAlbumDataNotFoundedError": "Não entendi o que aconteceu, não foi possível resgatar as informações do álbum que você está ouvindo no Spotify! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact.",
-    "spotifyArtistDataNotFoundedError": "Não entendi o que aconteceu, não foi possível resgatar as informações do artista que você está ouvindo no Spotify! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact."
+    "spotifyArtistDataNotFoundedError": "Não entendi o que aconteceu, não foi possível resgatar as informações do artista que você está ouvindo no Spotify! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact.",
+    "audioButton": "[🎧] - Áudio"
 }
