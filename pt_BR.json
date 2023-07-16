@@ -75,5 +75,6 @@
     "audioButton": "[🎧] - Áudio",
     "videoButton": "[🎬] - Vídeo",
     "errorSendingMessage": "Parece que algo deu errado ao enviar a mensagem, por favor tente novamente!",
-    "whatAreYouListeningNowPinMessage": "O que vc está ouvindo agr?"
+    "whatAreYouListeningNowPinMessage": "O que vc está ouvindo agr?",
+    "playingNowButton": "Tocando Agora"
 }
