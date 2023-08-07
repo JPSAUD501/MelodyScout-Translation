@@ -77,5 +77,6 @@
     "errorSendingMessage": "Parece que algo deu errado ao enviar a mensagem, por favor tente novamente!",
     "whatAreYouListeningNowPinMessage": "O que vc está ouvindo agr?",
     "playingNowButton": "Tocando Agora",
-    "mashupUnableToGetFirstTrackInfoErrorMessage": "Não foi possível resgatar as informações da primeira música do mashup! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact."
+    "mashupUnableToGetFirstTrackInfoErrorMessage": "Não foi possível resgatar as informações da primeira música do mashup! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact.",
+    "mashupUnableToGetSecondTrackInfoErrorMessage": "Não foi possível resgatar as informações da segunda música do mashup! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact."
 }
