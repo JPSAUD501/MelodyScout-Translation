@@ -86,5 +86,6 @@
     "mashupCreationTimeoutErrorMessage": "Infelizmente não foi possível criar o mashup ou ele demorou demais para ser criado! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact.",
     "unableToGetFinalMashupInfoErrorMessage": "Não foi possível resgatar as informações do mashup criado! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact.",
     "mashupCreatedInformMessage": "Mashup criado com sucesso! 🎉\nEstou enviando ele para você, por favor aguarde enquanto o Telegram faz o upload do vídeo...",
-    "unableToGetFinalMashupUrlErrorMessage": "Não foi possível resgatar a URL do mashup criado! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact."
+    "unableToGetFinalMashupUrlErrorMessage": "Não foi possível resgatar a URL do mashup criado! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact.",
+    "unableToGetFinalMashupThumbnailErrorMessage": "Não foi possível resgatar a thumbnail do mashup criado! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact."
 }
