@@ -83,5 +83,6 @@
     "unableToCreateMashupErrorMessage": "Não foi possível criar o mashup! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact.",
     "unableToGetMashupStartCreationConfirmationErrorMessage": "Não foi possível garantir que o mashup foi enviado para criação! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact.",
     "mashupStartCreationInformMessage": "Beleza! Seu mashup já foi enviado para criação! Essa etapa costuma demorar bastante mas não se preocupe, estou monitorando o processo e te aviso assim que ele estiver pronto! 😊",
-    "mashupCreationTimeoutErrorMessage": "Infelizmente não foi possível criar o mashup ou ele demorou demais para ser criado! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact."
+    "mashupCreationTimeoutErrorMessage": "Infelizmente não foi possível criar o mashup ou ele demorou demais para ser criado! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact.",
+    "unableToGetFinalMashupInfoErrorMessage": "Não foi possível resgatar as informações do mashup criado! Se o problema persistir entre em contato com o meu desenvolvedor utilizando o comando /contact."
 }
