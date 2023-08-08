@@ -95,5 +95,6 @@
     "myuserAlreadyRegisteredLastfmUserChangingInformMessage": "Verifiquei que você já tem um nome de usuário do Last.fm cadastrado! Vou atualizar ele para você!",
     "myuserLastfmUserCheckErrorMessage": "Ops! Eu não consegui verificar se o seu nome de usuário do Last.fm existe! Por favor, tente novamente mais tarde ou entre em contato com o desenvolvedor do bot utilizando o comando /contact!",
     "myuserLastfmUserNotExistsInLastfmErrorMessage": "Ops! Parece que o nome de usuário do Last.fm que você me informou não existe! Por favor, tente novamente informando um nome de usuário do Last.fm válido!",
-    "myuserLastfmUserDatabaseUpdateErrorMessage": "Ops! Eu não consegui registrar o seu nome de usuário do Last.fm! Por favor, tente novamente mais tarde ou entre em contato com o desenvolvedor do bot utilizando o comando /contact!"
+    "myuserLastfmUserDatabaseUpdateErrorMessage": "Ops! Eu não consegui registrar o seu nome de usuário do Last.fm! Por favor, tente novamente mais tarde ou entre em contato com o desenvolvedor do bot utilizando o comando /contact!",
+    "myuserLastfmUserSuccessfullyRegisteredInformMessage": "Pronto! Seu nome de usuário do Last.fm foi registrado com sucesso! Agradeço imensamente por isso e espero que você aproveite o bot!"
 }
