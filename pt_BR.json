@@ -93,5 +93,6 @@
     "myuserAlreadyRegisteredLastfmUserInformMessage": "Vi aqui que você já tem um nome de usuário do Last.fm cadastrado! Ele é \"<code>{{lastfmUser}}</code>\"! Se você quiser atualizar ele, por favor, tente novamente informando o seu nome de usuário do Last.fm como no exemplo a seguir: <code>/myuser MelodyScout</code>",
     "myuserAlreadyRegisteredLastfmUserErrorMessage": "Ops! Parece que você já tem o nome de usuário do Last.fm \"<code>{{lastfmUser}}</code>\" cadastrado! Se você quiser atualizar ele, por favor, tente novamente informando o seu novo nome de usuário do Last.fm!",
     "myuserAlreadyRegisteredLastfmUserChangingInformMessage": "Verifiquei que você já tem um nome de usuário do Last.fm cadastrado! Vou atualizar ele para você!",
-    "myuserLastfmUserCheckErrorMessage": "Ops! Eu não consegui verificar se o seu nome de usuário do Last.fm existe! Por favor, tente novamente mais tarde ou entre em contato com o desenvolvedor do bot utilizando o comando /contact!"
+    "myuserLastfmUserCheckErrorMessage": "Ops! Eu não consegui verificar se o seu nome de usuário do Last.fm existe! Por favor, tente novamente mais tarde ou entre em contato com o desenvolvedor do bot utilizando o comando /contact!",
+    "myuserLastfmUserNotExistsInLastfmErrorMessage": "Ops! Parece que o nome de usuário do Last.fm que você me informou não existe! Por favor, tente novamente informando um nome de usuário do Last.fm válido!"
 }
