@@ -99,5 +99,6 @@
     "tfBriefPostUserAtMelodyScoutBot": "{{username}} no @MelodyScoutBot",
     "tfBriefPostMetricsTittle": "[📊] Métricas",
     "localeLangCode": "pt-BR",
-    "tfBriefPostMetricsTracksListened": "- Músicas ouvidas: {{tracksListenedLength}}"
+    "tfBriefPostMetricsTracksListened": "- Músicas ouvidas: {{tracksListenedLength}}",
+    "tfBriefPostMetricsTracksKnown": "- Músicas conhecidas: {{tracksKnownLength}}"
 }
