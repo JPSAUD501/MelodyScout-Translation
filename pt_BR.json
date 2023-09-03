@@ -102,5 +102,6 @@
     "tfBriefPostMetricsTracksListened": "- Músicas ouvidas: {{tracksListenedLength}}",
     "tfBriefPostMetricsTracksKnown": "- Músicas conhecidas: {{tracksKnownLength}}",
     "tfBriefPostMetricsArtistsKnown": "- Artistas conhecidos: {{artistsKnownLength}}",
-    "tfBriefPostMetricsAlbumsKnown": "- Álbuns conhecidos: {{albumsKnownLength}}"
+    "tfBriefPostMetricsAlbumsKnown": "- Álbuns conhecidos: {{albumsKnownLength}}",
+    "tfBriefPostInfosTittle": "[ℹ️] Informações"
 }
