@@ -107,5 +107,6 @@
     "tfBriefPostInfosRepeatedTracks": "- {{repeatedTracksPercentage}}% das músicas ouvidas são repetidas.",
     "tfBriefPostInfosAverageRepeatTracks": "- Em média repete {{averageRepeatTracks}}x cada música que conhece.",
     "tfBriefPostMostPlayedTracksTittle": "[🎵] Músicas mais ouvidas",
-    "tfBriefPostMostPlayedTracksListItem": "- ({{trackPlaycount}}x) {{trackName}} de {{trackArtistName}}"
+    "tfBriefPostMostPlayedTracksListItem": "- ({{trackPlaycount}}x) {{trackName}} de {{trackArtistName}}",
+    "tfBriefPostMostPlayedAlbumsTittle": "[💿] Álbuns mais ouvidos"
 }
