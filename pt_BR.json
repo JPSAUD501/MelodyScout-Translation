@@ -113,5 +113,6 @@
     "tfBriefPostMostPlayedArtistsTittle": "[👨‍🎤] Artistas mais ouvidos",
     "tfBriefPostMostPlayedArtistsListItem": "- ({{artistPlaycount}}x) {{artistName}}",
     "tfBriefUserMusicSummaryTittle": "<b>Resumo musical de <a href=\"{{userUrl}}\">{{username}}</a></b>",
-    "tfBriefMetricsTittle": "<b>[📊] Métricas</b>"
+    "tfBriefMetricsTittle": "<b>[📊] Métricas</b>",
+    "tfBriefPostShareButton": "(<i><a href=\"{{postUrl}}\">Postar 𝕏</a></i>)"
 }
