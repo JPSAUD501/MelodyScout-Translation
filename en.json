@@ -127,5 +127,6 @@
     "tfBriefMetricsTracksKnown": "- Known tracks: <b>{{tracksKnownLength}}</b>",
     "tfBriefMostPlayedArtistsListItem": "- ({{artistPlaycount}}x) <a href=\"{{artistUrl}}\"><b>{{artistName}}</b></a>",
     "tfBriefMetricsRepeatedTracks": "- Repeated tracks: <b>{{repeatedTracksLength}}</b>",
-    "tfBriefPostInfosAverageRepeatTracks": "- Each known track is repeated {{averageRepeatTracks}} times on average."
+    "tfBriefPostInfosAverageRepeatTracks": "- Each known track is repeated {{averageRepeatTracks}} times on average.",
+    "geniusTrackLyricsNotFoundedError": "Unfortunately we couldn't find the lyrics to this track on Genius."
 }
