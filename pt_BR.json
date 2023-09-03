@@ -127,5 +127,6 @@
     "tfBriefMostPlayedAlbumsTittle": "<b>[💿] Álbuns mais tocados</b>",
     "tfBriefMostPlayedAlbumsListItem": "- ({{albumPlaycount}}x) <a href=\"{{albumUrl}}\"><b>{{albumName}}</b> de <b>{{albumArtistName}}</b></a>",
     "tfBriefMostPlayedArtistsTittle": "<b>[👨‍🎤] Artistas mais tocados</b>",
-    "tfBriefMostPlayedArtistsListItem": "- ({{artistPlaycount}}x) <a href=\"{{artistUrl}}\"><b>{{artistName}}</b></a>"
+    "tfBriefMostPlayedArtistsListItem": "- ({{artistPlaycount}}x) <a href=\"{{artistUrl}}\"><b>{{artistName}}</b></a>",
+    "geniusTrackLyricsNotFoundedError": "Infelizmente não foi possível encontrar a letra dessa música na Genius."
 }
