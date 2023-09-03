@@ -121,5 +121,6 @@
     "tfBriefMetricsArtistsKnown": "- Artistas conhecidos: <b>{{artistsKnownLength}}</b>",
     "tfBriefMetricsAlbumsKnown": "- Álbuns conhecidos: <b>{{albumsKnownLength}}</b>",
     "tfBriefInfosTittle": "<b>[ℹ️] Informações</b>",
-    "tfBriefInfosRepeatedTracks": "- Dentre as suas músicas ouvidas <b>{{repeatedTracksPercentage}}%</b> são repetidas e <b>{{newTracksPercentage}}%</b> são novas."
+    "tfBriefInfosRepeatedTracks": "- Dentre as suas músicas ouvidas <b>{{repeatedTracksPercentage}}%</b> são repetidas e <b>{{newTracksPercentage}}%</b> são novas.",
+    "tfBriefInfosAverageRepeatTracks": "- Em média você repete <b>{{averageRepeatTracks}}</b> vezes cada música que conhece."
 }
