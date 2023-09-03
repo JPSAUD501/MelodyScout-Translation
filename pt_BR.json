@@ -98,5 +98,6 @@
     "myuserLastfmUserSuccessfullyRegisteredInformMessage": "Pronto! Seu nome de usuário do Last.fm foi registrado com sucesso! Agradeço imensamente por isso e espero que você aproveite o bot!",
     "tfBriefPostUserAtMelodyScoutBot": "{{username}} no @MelodyScoutBot",
     "tfBriefPostMetricsTittle": "[📊] Métricas",
-    "localeLangCode": "pt-BR"
+    "localeLangCode": "pt-BR",
+    "tfBriefPostMetricsTracksListened": "- Músicas ouvidas: {{tracksListenedLength}}"
 }
