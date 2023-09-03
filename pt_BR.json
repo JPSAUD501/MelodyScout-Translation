@@ -116,5 +116,6 @@
     "tfBriefMetricsTittle": "<b>[📊] Métricas</b>",
     "tfBriefPostShareButton": "(<i><a href=\"{{postUrl}}\">Postar 𝕏</a></i>)",
     "tfBriefMetricsTracksListened": "- Músicas ouvidas: <b>{{tracksListenedLength}}</b>",
-    "tfBriefMetricsTracksKnown": "- Músicas conhecidas: <b>{{tracksKnownLength}}</b>"
+    "tfBriefMetricsTracksKnown": "- Músicas conhecidas: <b>{{tracksKnownLength}}</b>",
+    "tfBriefMetricsRepeatedTracks": "- Músicas repetidas: {{repeatedTracksLength}}</b>"
 }
