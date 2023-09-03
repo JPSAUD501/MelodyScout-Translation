@@ -104,5 +104,6 @@
     "tfBriefPostMetricsArtistsKnown": "- Artistas conhecidos: {{artistsKnownLength}}",
     "tfBriefPostMetricsAlbumsKnown": "- Álbuns conhecidos: {{albumsKnownLength}}",
     "tfBriefPostInfosTittle": "[ℹ️] Informações",
-    "tfBriefPostInfosRepeatedTracks": "- {{repeatedTracksPercentage}}% das músicas ouvidas são repetidas."
+    "tfBriefPostInfosRepeatedTracks": "- {{repeatedTracksPercentage}}% das músicas ouvidas são repetidas.",
+    "tfBriefPostInfosAverageRepeatTracks": "- Em média repete {{averageRepeatTracks}}x cada música que conhece."
 }
