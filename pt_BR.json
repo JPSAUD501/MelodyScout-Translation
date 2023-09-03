@@ -100,5 +100,6 @@
     "tfBriefPostMetricsTittle": "[📊] Métricas",
     "localeLangCode": "pt-BR",
     "tfBriefPostMetricsTracksListened": "- Músicas ouvidas: {{tracksListenedLength}}",
-    "tfBriefPostMetricsTracksKnown": "- Músicas conhecidas: {{tracksKnownLength}}"
+    "tfBriefPostMetricsTracksKnown": "- Músicas conhecidas: {{tracksKnownLength}}",
+    "tfBriefPostMetricsArtistsKnown": "- Artistas conhecidos: {{artistsKnownLength}}"
 }
