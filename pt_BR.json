@@ -111,5 +111,6 @@
     "tfBriefPostMostPlayedAlbumsTittle": "[💿] Álbuns mais ouvidos",
     "tfBriefPostMostPlayedAlbumsListItem": "- ({{albumPlaycount}}x) {{albumName}} de {{albumArtistName}}",
     "tfBriefPostMostPlayedArtistsTittle": "[👨‍🎤] Artistas mais ouvidos",
-    "tfBriefPostMostPlayedArtistsListItem": "- ({{artistPlaycount}}x) {{artistName}}"
+    "tfBriefPostMostPlayedArtistsListItem": "- ({{artistPlaycount}}x) {{artistName}}",
+    "tfBriefUserMusicSummaryTittle": "<b>Resumo musical de <a href=\"{{userUrl}}\">{{username}}</a></b>"
 }
