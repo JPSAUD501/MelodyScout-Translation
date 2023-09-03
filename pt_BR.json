@@ -118,5 +118,6 @@
     "tfBriefMetricsTracksListened": "- Músicas ouvidas: <b>{{tracksListenedLength}}</b>",
     "tfBriefMetricsTracksKnown": "- Músicas conhecidas: <b>{{tracksKnownLength}}</b>",
     "tfBriefMetricsRepeatedTracks": "- Músicas repetidas: {{repeatedTracksLength}}</b>",
-    "tfBriefMetricsArtistsKnown": "- Artistas conhecidos: <b>{{artistsKnownLength}}</b>"
+    "tfBriefMetricsArtistsKnown": "- Artistas conhecidos: <b>{{artistsKnownLength}}</b>",
+    "tfBriefMetricsAlbumsKnown": "- Álbuns conhecidos: <b>{{albumsKnownLength}}</b>"
 }
