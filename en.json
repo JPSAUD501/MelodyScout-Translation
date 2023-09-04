@@ -133,5 +133,7 @@
     "lyricsExplanationAiPrompt": "Explanation of the song lyrics:",
     "tfTracklyricsexplanationHeader": "<b>[✨] Explanation of \"{{trackName}}\" by \"{{artistName}}\" provided by <a href=\"{{melodyScoutAiAboutUrl}}\">MelodyScoutAi</a> requested by {{requestedBy}}</b>",
     "tfTracklyricsexplanationInEmojis": "In emojis: {{lyricsEmojis}}",
-    "tfForgetmeSuccessMessage": "Done! I forgot your Last.fm username!"
+    "tfForgetmeSuccessMessage": "Done! I forgot your Last.fm username!",
+    "googleTTSVoiceCode": "en",
+    "tiktokApiVoiceCode": "en"
 }
