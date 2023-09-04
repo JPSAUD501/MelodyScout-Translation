@@ -134,5 +134,6 @@
     "tfTracklyricsexplanationHeader": "<b>[✨] Explicação de \"{{trackName}}\" por \"{{artistName}}\" fornecida pelo <a href=\"{{melodyScoutAiAboutUrl}}\">MelodyScoutAi</a> solicitada por {{requestedBy}}</b>",
     "tfTracklyricsexplanationInEmojis": "Em emojis: {{lyricsEmojis}}",
     "tfForgetmeSuccessMessage": "Pronto! Eu esqueci o seu nome de usuário do Last.fm!",
-    "googleTTSVoiceCode": "pt"
+    "googleTTSVoiceCode": "pt",
+    "tiktokApiVoiceCode": "br"
 }
