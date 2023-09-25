@@ -141,5 +141,6 @@
     "tfPlayingnowPostTrackName": "[🎧{{badge}}] {{trackName}}",
     "tfPlayingnowPostArtistName": "- Artista: {{artistName}}",
     "tfPlayingnowPostScrobblesTitle": "[📊] Scrobbles",
-    "tfPlayingnowPostTrackScrobbles": "- Música: {{trackPlaycount}}"
+    "tfPlayingnowPostTrackScrobbles": "- Música: {{trackPlaycount}}",
+    "tfPlayingnowPostArtistScrobbles": "- Artista: {{artistPlaycount}}"
 }
