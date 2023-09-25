@@ -143,5 +143,6 @@
     "tfPlayingnowPostScrobblesTitle": "[📊] Scrobbles",
     "tfPlayingnowPostTrackScrobbles": "- Música: {{trackPlaycount}}",
     "tfPlayingnowPostArtistScrobbles": "- Artista: {{artistPlaycount}}",
-    "tfPlayingnowPostTrackPlaytime": "Já ouviu essa música por {{hours}} horas e {{minutes}} minutos."
+    "tfPlayingnowPostTrackPlaytime": "Já ouviu essa música por {{hours}} horas e {{minutes}} minutos.",
+    "tfPlayingnowPostInfo": "[ℹ️] {{info}}"
 }
