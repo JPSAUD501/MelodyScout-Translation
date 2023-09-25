@@ -157,5 +157,6 @@
     "tfPlayingnowArtistScrobbles": "- Artista: <b>{{artistPlaycount}}</b>",
     "tfPlayingnowInfoTrackPlaytime": "- Você já ouviu essa música por <b>{{hours}} horas</b> e <b>{{minutes}} minutos</b>.",
     "tfPlayingnowInfoTrackPopularity": "- A <a href=\"{{popularityInfoUrl}}\">popularidade</a> atual dessa música é: <b>[{{popularity}}][{{stars}}]</b>",
-    "tfPlayingnowInfoTrackAlbumPercentage": "- Essa música representa <b>{{percentage}}%</b> de todas suas reproduções desse álbum."
+    "tfPlayingnowInfoTrackAlbumPercentage": "- Essa música representa <b>{{percentage}}%</b> de todas suas reproduções desse álbum.",
+    "tfPlayingnowInfoTrackArtistPercentage": "- Essa música representa <b>{{percentage}}%</b> de todas suas reproduções desse artista."
 }
