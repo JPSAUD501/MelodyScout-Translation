@@ -139,5 +139,6 @@
     "deezerButton": "[🎧] - Deezer",
     "tfPlayingnowPostUserAtMelodyScoutBot": "{{username}} no @MelodyScoutBot",
     "tfPlayingnowPostTrackName": "[🎧{{badge}}] {{trackName}}",
-    "tfPlayingnowPostArtistName": "- Artista: {{artistName}}"
+    "tfPlayingnowPostArtistName": "- Artista: {{artistName}}",
+    "tfPlayingnowPostScrobblesTitle": "[📊] Scrobbles"
 }
