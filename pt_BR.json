@@ -135,5 +135,6 @@
     "tfTracklyricsexplanationInEmojis": "Em emojis: {{lyricsEmojis}}",
     "tfForgetmeSuccessMessage": "Pronto! Eu esqueci o seu nome de usuário do Last.fm!",
     "googleTTSVoiceCode": "pt",
-    "tiktokApiVoiceCode": "br"
+    "tiktokApiVoiceCode": "br",
+    "deezerButton": "[🎧] - Deezer"
 }
