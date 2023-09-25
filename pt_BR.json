@@ -137,5 +137,6 @@
     "googleTTSVoiceCode": "pt",
     "tiktokApiVoiceCode": "br",
     "deezerButton": "[🎧] - Deezer",
-    "tfPlayingnowPostUserAtMelodyScoutBot": "{{username}} no @MelodyScoutBot"
+    "tfPlayingnowPostUserAtMelodyScoutBot": "{{username}} no @MelodyScoutBot",
+    "tfPlayingnowPostTrackName": "[🎧{{badge}}] {{trackName}}"
 }
