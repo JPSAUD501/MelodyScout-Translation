@@ -164,5 +164,6 @@
     "tfPlayingnowInfoFirstScrobbleLoading": "- Carregando quando você ouviu essa música pela primeira vez...",
     "tfPlayingnowInfoFirstScrobbleLoaded": "- Sua primeira reprodução dessa música foi em <b>{{date}}</b>.",
     "tfPlayingnowInfoFirstScrobbleError": "- Não foi possível carregar quando você ouviu essa música pela primeira vez.",
-    "tfPlayingnowInfoTitle": "<b>[ℹ️] Informações</b>"
+    "tfPlayingnowInfoTitle": "<b>[ℹ️] Informações</b>",
+    "tfPlayingnowShareTitle": "<b>[🔗] Compartilhe</b>"
 }
