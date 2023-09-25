@@ -151,5 +151,6 @@
     "tfPlayingnowTrackInfo": "<b>[🎧{{badge}}] <a href=\"{{trackUrl}}\">{{trackName}}</a></b>",
     "tfPlayingnowAlbumName": "- Álbum: <b><a href=\"{{albumUrl}}\">{{albumName}}</a></b>",
     "tfPlayingnowArtistName": "- Artista: <b><a href=\"{{artistUrl}}\">{{artistName}}</a></b>",
-    "tfPlayingnowScrobblesTitle": "<b>[📊] Scrobbles</b>"
+    "tfPlayingnowScrobblesTitle": "<b>[📊] Scrobbles</b>",
+    "tfPlayingnowTrackScrobbles": "- Música: <b>{{trackPlaycount}}</b>"
 }
