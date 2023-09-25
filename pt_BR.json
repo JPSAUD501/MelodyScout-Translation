@@ -140,5 +140,6 @@
     "tfPlayingnowPostUserAtMelodyScoutBot": "{{username}} no @MelodyScoutBot",
     "tfPlayingnowPostTrackName": "[🎧{{badge}}] {{trackName}}",
     "tfPlayingnowPostArtistName": "- Artista: {{artistName}}",
-    "tfPlayingnowPostScrobblesTitle": "[📊] Scrobbles"
+    "tfPlayingnowPostScrobblesTitle": "[📊] Scrobbles",
+    "tfPlayingnowPostTrackScrobbles": "- Música: {{trackPlaycount}}"
 }
