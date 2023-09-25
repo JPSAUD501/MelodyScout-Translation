@@ -152,5 +152,6 @@
     "tfPlayingnowAlbumName": "- Álbum: <b><a href=\"{{albumUrl}}\">{{albumName}}</a></b>",
     "tfPlayingnowArtistName": "- Artista: <b><a href=\"{{artistUrl}}\">{{artistName}}</a></b>",
     "tfPlayingnowScrobblesTitle": "<b>[📊] Scrobbles</b>",
-    "tfPlayingnowTrackScrobbles": "- Música: <b>{{trackPlaycount}}</b>"
+    "tfPlayingnowTrackScrobbles": "- Música: <b>{{trackPlaycount}}</b>",
+    "tfPlayingnowAlbumScrobbles": "- Álbum: <b>{{albumPlaycount}}</b>"
 }
