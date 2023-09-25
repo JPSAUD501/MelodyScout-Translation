@@ -145,5 +145,6 @@
     "tfPlayingnowPostArtistScrobbles": "- Artista: {{artistPlaycount}}",
     "tfPlayingnowPostTrackPlaytime": "Já ouviu essa música por {{hours}} horas e {{minutes}} minutos.",
     "tfPlayingnowPostInfo": "[ℹ️] {{info}}",
-    "tfPlayingnowPostInfoTitle": "[ℹ️] Informações"
+    "tfPlayingnowPostInfoTitle": "[ℹ️] Informações",
+    "tfPlayingnowHeaderNowPlaying": "<a href=\"{{userUrl}}\">{{username}}</a> está ouvindo</b>"
 }
