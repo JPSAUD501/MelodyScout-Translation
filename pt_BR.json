@@ -147,5 +147,6 @@
     "tfPlayingnowPostInfo": "[ℹ️] {{info}}",
     "tfPlayingnowPostInfoTitle": "[ℹ️] Informações",
     "tfPlayingnowHeaderNowPlaying": "<a href=\"{{userUrl}}\">{{username}}</a> está ouvindo</b>",
-    "tfPlayingnowHeaderLastTrack": "<a href=\"{{userUrl}}\">{{username}}</a> estava ouvindo</b>"
+    "tfPlayingnowHeaderLastTrack": "<a href=\"{{userUrl}}\">{{username}}</a> estava ouvindo</b>",
+    "tfPlayingnowTrackInfo": "<b>[🎧{{badge}}] <a href=\"{{trackUrl}}\">{{trackName}}</a></b>"
 }
