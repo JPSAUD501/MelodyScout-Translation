@@ -138,5 +138,6 @@
     "tiktokApiVoiceCode": "br",
     "deezerButton": "[🎧] - Deezer",
     "tfPlayingnowPostUserAtMelodyScoutBot": "{{username}} no @MelodyScoutBot",
-    "tfPlayingnowPostTrackName": "[🎧{{badge}}] {{trackName}}"
+    "tfPlayingnowPostTrackName": "[🎧{{badge}}] {{trackName}}",
+    "tfPlayingnowPostArtistName": "- Artista: {{artistName}}"
 }
