@@ -149,5 +149,6 @@
     "tfPlayingnowHeaderNowPlaying": "<a href=\"{{userUrl}}\">{{username}}</a> está ouvindo</b>",
     "tfPlayingnowHeaderLastTrack": "<a href=\"{{userUrl}}\">{{username}}</a> estava ouvindo</b>",
     "tfPlayingnowTrackInfo": "<b>[🎧{{badge}}] <a href=\"{{trackUrl}}\">{{trackName}}</a></b>",
-    "tfPlayingnowAlbumName": "- Álbum: <b><a href=\"{{albumUrl}}\">{{albumName}}</a></b>"
+    "tfPlayingnowAlbumName": "- Álbum: <b><a href=\"{{albumUrl}}\">{{albumName}}</a></b>",
+    "tfPlayingnowArtistName": "- Artista: <b><a href=\"{{artistUrl}}\">{{artistName}}</a></b>"
 }
