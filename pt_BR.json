@@ -146,5 +146,6 @@
     "tfPlayingnowPostTrackPlaytime": "Já ouviu essa música por {{hours}} horas e {{minutes}} minutos.",
     "tfPlayingnowPostInfo": "[ℹ️] {{info}}",
     "tfPlayingnowPostInfoTitle": "[ℹ️] Informações",
-    "tfPlayingnowHeaderNowPlaying": "<a href=\"{{userUrl}}\">{{username}}</a> está ouvindo</b>"
+    "tfPlayingnowHeaderNowPlaying": "<a href=\"{{userUrl}}\">{{username}}</a> está ouvindo</b>",
+    "tfPlayingnowHeaderLastTrack": "<a href=\"{{userUrl}}\">{{username}}</a> estava ouvindo</b>"
 }
