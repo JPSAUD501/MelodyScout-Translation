@@ -159,5 +159,6 @@
     "tfPlayingnowInfoTrackPopularity": "- A <a href=\"{{popularityInfoUrl}}\">popularidade</a> atual dessa música é: <b>[{{popularity}}][{{stars}}]</b>",
     "tfPlayingnowInfoTrackAlbumPercentage": "- Essa música representa <b>{{percentage}}%</b> de todas suas reproduções desse álbum.",
     "tfPlayingnowInfoTrackArtistPercentage": "- Essa música representa <b>{{percentage}}%</b> de todas suas reproduções desse artista.",
-    "tfPlayingnowInfoAlbumArtistPercentage": "- Esse álbum representa <b>{{percentage}}%</b> de todas suas reproduções desse artista."
+    "tfPlayingnowInfoAlbumArtistPercentage": "- Esse álbum representa <b>{{percentage}}%</b> de todas suas reproduções desse artista.",
+    "tfPlayingnowInfoArtistUserPercentage": "- Esse artista representa <b>{{percentage}}%</b> de todas suas reproduções."
 }
