@@ -161,7 +161,6 @@
     "tfPlayingnowInfoTrackArtistPercentage": "- Essa música representa <b>{{percentage}}%</b> de todas suas reproduções desse artista.",
     "tfPlayingnowInfoAlbumArtistPercentage": "- Esse álbum representa <b>{{percentage}}%</b> de todas suas reproduções desse artista.",
     "tfPlayingnowInfoArtistUserPercentage": "- Esse artista representa <b>{{percentage}}%</b> de todas suas reproduções.",
-    "tfPlayingnowInfoFirstScrobbleLoaded": "- Sua primeira reprodução dessa música foi em <b>{{date}}</b>.",
     "tfPlayingnowInfoFirstScrobbleError": "- Não foi possível carregar quando você ouviu essa música pela primeira vez.",
     "tfPlayingnowInfoTitle": "<b>[ℹ️] Informações</b>",
     "tfPlayingnowShareTitle": "<b>[🔗] Compartilhe</b>",
