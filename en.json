@@ -142,7 +142,6 @@
     "tfPlayingnowInfoArtistUserPercentage": "- This artist represents <b>{{percentage}}%</b> of all your reproductions.",
     "tfPlayingnowPostUserAtMelodyScoutBot": "{{username}} at @MelodyScoutBot",
     "tfPlayingnowPostTrackName": "[🎧{{badge}}] {{trackName}}",
-    "tfPlayingnowInfoFirstScrobbleLoaded": "- Your first playback of this song was on <b>{{date}}</b>.",
     "tfPlayingnowPostArtistName": "- Artist: {{artistName}}",
     "tfPlayingnowInfoFirstScrobbleError": "- Unable to load when you first heard this song.",
     "tfPlayingnowPostScrobblesTitle": "[📊] Scrobbles",
