@@ -143,7 +143,6 @@
     "tfPlayingnowPostUserAtMelodyScoutBot": "{{username}} at @MelodyScoutBot",
     "tfPlayingnowPostTrackName": "[🎧{{badge}}] {{trackName}}",
     "tfPlayingnowPostArtistName": "- Artist: {{artistName}}",
-    "tfPlayingnowInfoFirstScrobbleError": "- Unable to load when you first heard this song.",
     "tfPlayingnowPostScrobblesTitle": "[📊] Scrobbles",
     "tfPlayingnowInfoTitle": "<b>[ℹ️] Information</b>",
     "tfPlayingnowPostTrackScrobbles": "- Track: {{trackPlaycount}}",
