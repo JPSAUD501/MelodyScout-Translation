@@ -1,5 +1,4 @@
 {
-    "dontWorkOnChannelsInformCallback": "⚠ - I don't work on channels!",
     "dontWorkOnChannelsInformMessage": "Unfortunately I don't work on channels yet! Follow my updates to find out when new features will be available!",
     "lastfmUserNoMoreRegisteredError": "It seems you asked me to forget your Last.fm user and didn't inform me a new user, to register your Last.fm user send the command /myuser and your lastfm user, for example: <code>/myuser MelodyScout</code>",
     "lastfmUserNotRegistered": "It seems you don't have a Last.fm user registered yet, to register a Last.fm user send the command /myuser and your lastfm user, for example: <code>/myuser MelodyScout</code>",
