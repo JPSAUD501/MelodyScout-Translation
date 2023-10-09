@@ -141,7 +141,6 @@
     "tfPlayingnowInfoAlbumArtistPercentage": "- This album represents <b>{{percentage}}%</b> of all your reproductions of this artist.",
     "tfPlayingnowInfoArtistUserPercentage": "- This artist represents <b>{{percentage}}%</b> of all your reproductions.",
     "tfPlayingnowPostUserAtMelodyScoutBot": "{{username}} at @MelodyScoutBot",
-    "tfPlayingnowInfoFirstScrobbleLoading": "- Loading when you first heard this track…",
     "tfPlayingnowPostTrackName": "[🎧{{badge}}] {{trackName}}",
     "tfPlayingnowInfoFirstScrobbleLoaded": "- Your first playback of this song was on <b>{{date}}</b>.",
     "tfPlayingnowPostArtistName": "- Artist: {{artistName}}",
