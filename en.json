@@ -162,5 +162,5 @@
     "tfPlayingnowInfoTrackPopularity": "- The current <a href=\"{{popularityInfoUrl}}\">popularity</a> of this track is: <b>[{{popularity}}][{{stars}}]</b>",
     "tfPlayingnowInfoTrackAlbumPercentage": "- This song represents <b>{{percentage}}%</b> of all your plays from this album.",
     "composeImageTitle": "<b>{{trackName}}</b> by <b>{{artistName}}</b>",
-    "youtubeMusicButton": "[🎶] - YouTube Music"
+    "youtubeMusicButton": "[🎶] - YT Music"
 }
